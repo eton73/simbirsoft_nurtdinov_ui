@@ -30,6 +30,7 @@ public class ManagerPage {
   public void openAccountButtonClick() {
     openAccountButton.click();
   }
+
   public void showCustButtonClick() {
     showCustButton.click();
   }
